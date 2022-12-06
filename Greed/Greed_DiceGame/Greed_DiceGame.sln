@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greed_DiceGame", "Greed_DiceGame.csproj", "{30FB6163-1807-44DA-A60D-0C6DD79B0F9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{3FE4531E-C1EA-4035-A0DC-EC2D937A55B8}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGreed_DiceGame", "..\TestGreed_Dice\TestGreed_DiceGame.csproj", "{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FB6163-1807-44DA-A60D-0C6DD79B0F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FB6163-1807-44DA-A60D-0C6DD79B0F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FB6163-1807-44DA-A60D-0C6DD79B0F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FB6163-1807-44DA-A60D-0C6DD79B0F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF2184AF-81DE-4228-946B-53E8D5AD7758}
+	EndGlobalSection
+EndGlobal
