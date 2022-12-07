@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\bin\x64\Release\net6.0\Greed_DiceGame.exe
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\bin\x64\Release\net6.0\Greed_DiceGame.deps.json
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\bin\x64\Release\net6.0\Greed_DiceGame.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\bin\x64\Release\net6.0\Greed_DiceGame.dll
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\bin\x64\Release\net6.0\Greed_DiceGame.pdb
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.dll
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\refint\Greed_DiceGame.dll
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.pdb
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\Greed_DiceGame.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\kata\Greed\Greed_DiceGame\obj\x64\Release\net6.0\ref\Greed_DiceGame.dll
