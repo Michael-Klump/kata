@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj",
-      "projectName": "Greed_DiceGame",
-      "projectPath": "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj",
+      "projectUniqueName": "D:\\GIT\\kata\\Greed\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+      "projectName": "GameOfLife",
+      "projectPath": "D:\\GIT\\kata\\Greed\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
       "packagesPath": "C:\\Users\\Mael\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\obj\\",
+      "outputPath": "D:\\GIT\\kata\\Greed\\GameOfLife\\GameOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

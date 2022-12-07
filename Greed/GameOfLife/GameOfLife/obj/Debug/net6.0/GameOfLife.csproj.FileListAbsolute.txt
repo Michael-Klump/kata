@@ -1,0 +1,15 @@
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\bin\Debug\net6.0\GameOfLife.exe
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\bin\Debug\net6.0\GameOfLife.deps.json
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\bin\Debug\net6.0\GameOfLife.runtimeconfig.json
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\bin\Debug\net6.0\GameOfLife.dll
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\bin\Debug\net6.0\GameOfLife.pdb
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.csproj.AssemblyReference.cache
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.AssemblyInfoInputs.cache
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.AssemblyInfo.cs
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.csproj.CoreCompileInputs.cache
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.dll
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\refint\GameOfLife.dll
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.pdb
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\GameOfLife.genruntimeconfig.cache
+D:\GIT\kata\Greed\GameOfLife\GameOfLife\obj\Debug\net6.0\ref\GameOfLife.dll

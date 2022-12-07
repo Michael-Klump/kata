@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGreed_DiceGame", "..\TestGreed_Dice\TestGreed_DiceGame.csproj", "{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "..\GameOfLife\GameOfLife\GameOfLife.csproj", "{1694A9C3-D189-4502-B9AA-DB5B34499A6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,14 @@ Global
 		{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}.Release|x64.ActiveCfg = Release|x64
 		{F24CD1BD-6B75-4AA4-A57B-9F9C0DEA90D2}.Release|x64.Build.0 = Release|x64
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Debug|x64.Build.0 = Debug|Any CPU
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Release|x64.ActiveCfg = Release|Any CPU
+		{1694A9C3-D189-4502-B9AA-DB5B34499A6E}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

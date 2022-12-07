@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj": {}
+    "D:\\GIT\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj": {
+    "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj",
+        "projectUniqueName": "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj",
         "projectName": "Greed_DiceGame",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\Greed_DiceGame\\obj\\",
+        "projectPath": "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj",
+        "packagesPath": "C:\\Users\\Mael\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,17 +63,21 @@
         }
       }
     },
-    "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj": {
+    "D:\\GIT\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj",
+        "projectUniqueName": "D:\\GIT\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj",
         "projectName": "TestGreed_DiceGame",
-        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\TestGreed_Dice\\obj\\",
+        "projectPath": "D:\\GIT\\kata\\Greed\\TestGreed_Dice\\TestGreed_DiceGame.csproj",
+        "packagesPath": "C:\\Users\\Mael\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\kata\\Greed\\TestGreed_Dice\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj": {
-                "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj"
+              "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj": {
+                "projectPath": "D:\\GIT\\kata\\Greed\\Greed_DiceGame\\Greed_DiceGame.csproj"
               }
             }
           }
